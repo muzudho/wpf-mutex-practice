@@ -22,7 +22,7 @@ namespace WpfMutexPractice
         {
             if (!_mutex.WaitOne(0, false))
             {
-                // TODO 既に起動しているウィンドウをアクティブ（最前面に表示）します
+                // TODO 既に起動しているウィンドウをアクティブ（最前面に表示）します。この機能は難しいので、今回は実装しません
 
                 // 既に起動しているので終了させます
                 _mutex.Close();
