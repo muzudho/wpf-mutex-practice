@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        
+        <!-- これがボタンです -->
         <Button Content="子ウィンドウを出すボタン" HorizontalAlignment="Left" Height="106" Margin="308,180,0,0" VerticalAlignment="Top" Width="180" Click="Button_Click"/>
 
     </Grid>

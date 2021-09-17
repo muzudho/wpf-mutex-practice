@@ -1,8 +1,8 @@
-﻿using System.Threading;
-using System.Windows;
-
-namespace WpfMutexPractice
+﻿namespace WpfMutexPractice
 {
+    using System.Threading;
+    using System.Windows;
+
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>

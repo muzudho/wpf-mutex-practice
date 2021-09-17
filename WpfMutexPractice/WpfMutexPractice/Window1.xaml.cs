@@ -1,7 +1,7 @@
-﻿using System.Windows;
-
-namespace WpfMutexPractice
+﻿namespace WpfMutexPractice
 {
+    using System.Windows;
+
     /// <summary>
     /// Window1.xaml の相互作用ロジック
     /// </summary>
